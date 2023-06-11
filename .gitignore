@@ -1,0 +1,17 @@
+# error.log
+# error - Copy.log
+# error - Copy (2).log
+# error - Copy (3).log
+# error - Copy (4).log
+
+# Ignore all the log files
+*.log 
+
+# Ignore dir folder which lies inside repository
+# /dir/
+
+# Ignore dir folder which lies inside static folder
+# /static/dir
+
+# Ignore all the content which lies inside the dir/ folder
+dir/
